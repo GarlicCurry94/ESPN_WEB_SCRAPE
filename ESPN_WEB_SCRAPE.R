@@ -1,3 +1,5 @@
+setwd("~/GitHub/ESPN_WEB_SCRAPE")
+
 install.packages("rvest")
 install.packages("dplyr")
 install.packages("stringr")
